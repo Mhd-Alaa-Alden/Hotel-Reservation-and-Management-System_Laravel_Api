@@ -1,8 +1,3 @@
-![erd senior](https://github.com/user-attachments/assets/0d1ed471-9a4e-4127-991f-c0290d374193)# Hotel-Reservation-and-Management-System_Laravel_Api
-Sure! Here’s the professional English version of your project description:  
-
----
-
 # 🏨 **Hotel Reservation and Management System**  
 
 ## 📄 **Project Overview**  
@@ -30,7 +25,6 @@ The **Hotel Reservation and Management System** is a comprehensive solution desi
 ### 🎁 **Loyalty Program**  
 - Multi-level loyalty system with different benefits per level.  
 - Provide discounts and additional services to loyal customers.  
-- Automatically calculate and convert loyalty points into rewards.  
 
 ### 🧾 **Financial Management**  
 - Record all financial transactions related to reservations and extra services.  
@@ -53,9 +47,10 @@ The **Hotel Reservation and Management System** is a comprehensive solution desi
 
 | Component         | Technology Used               |
 |------------------|-----------------------------|
-| Backend          | Laravel     |
+| Backend          | Laravel 11 (REST API)    |
 | Database        | MySQL                        |
 | Version Control  | Git & GitHub                |
+| API Testing:   | Postman                |
 
 
 ---
@@ -64,7 +59,7 @@ The **Hotel Reservation and Management System** is a comprehensive solution desi
 
 1. **Clone the Repository:**  
 ```bash
-git clone https://github.com/your-username/Hotel-Reservation-Management.git
+git clone
 ```
 
 2. **Install Dependencies:**  
@@ -90,7 +85,7 @@ php artisan serve
 The following ERD showcases the database structure and relationships between tables, ensuring a well-organized and scalable data model.  
 
 ![ERD](![erd senior](https://github.com/user-attachments/assets/10dece45-6900-4eca-bcd2-e427de8be4eb)
-)  
+
 
 ---
 
